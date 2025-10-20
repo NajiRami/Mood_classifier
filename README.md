@@ -34,7 +34,7 @@ No Smile = Denied ❌
 ## ⚙ Technologies Used
 - 🐍 Python
 - 🧠 TensorFlow / Keras
-- 👁 OpenCV
+- 👁 Computer Vision (CV)
 - 📊 Deep Learning (CNN)
 
 ---
