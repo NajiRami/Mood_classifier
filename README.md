@@ -41,7 +41,6 @@ No Smile = Denied ❌
 
 ## ▶ Run the Project
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/NajiRami/Mood_classifier.git
+cd Mood_classifier
 pip install -r requirements.txt
-python app.py
